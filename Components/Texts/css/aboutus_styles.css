@@ -1,0 +1,18 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+#main_data{
+	border:1px solid #2A70ED;
+}
+#main_data p{
+	font-size:25px;
+	margin:15px;
+	color:#FFFFFF;
+}
+#main_data ul{
+	font-size:25px;
+	color:#FFFFFF;
+	margin-left:60px;
+}
