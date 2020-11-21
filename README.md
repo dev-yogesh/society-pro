@@ -1,7 +1,7 @@
 ## Society Pro
 ### Project is live look at it
-www.societypro.com
+http://societypro.epizy.com/
 
 ## What is this project all about
 ### Look at this video
-youtube.com
+https://youtu.be/i2johXK5NeQ
