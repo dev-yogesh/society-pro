@@ -31,9 +31,11 @@
 			</div>
 			<div id="main_data">
 				<div id="main_video">
-					<video src="Components\Videos\video.mp4" type="video/mp4" poster="Components\Images\Logos\poster.jpg" autobuffer controls>Video Not Supported autoplay loop</video>
+					<br />
+                    			<iframe width="575" height="325" src="https://www.youtube.com/embed/i2johXK5NeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-left:30px;"></iframe>
+					<!--<video src="Components\Videos\video.mp4" type="video/mp4" poster="Components\Images\Logos\poster.jpg" autobuffer controls>Video Not Supported autoplay loop</video>-->
 				</div>
-				<div id="main_images">
+				<div id="main_images" style="width: 40%;">
 					<p align="center">Let's Start..</p>
 					<table border="0">
 						<tr>
